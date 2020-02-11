@@ -1,0 +1,92 @@
+.header-main nav.nav-menu ul li a.is-selected .nav-label {
+    border-left: 1px solid #fd79a8;
+    border-right: 1px solid #fd79a8;
+}
+
+.banner-wraper .banner-content {
+    color: #fd79a8;
+}
+
+#about .ti-user{
+    color: #fd79a8;
+}
+.ratting{
+    color: #fd79a8;
+}
+
+.personal-info span a:hover{
+    color: #fd79a8;
+}
+.resume-item{
+    border-left: 2px solid #fd79a8;
+}
+
+.resume-item .date{
+    border:1px solid #fd79a8;
+}
+.single-service:before {
+    width: 0%;
+    height: 4px;
+    background-color: #fd79a8;
+    position: absolute;
+    content: "";
+    -webkit-transition: linear 0.2s;
+    transition: linear 0.2s;
+    top: 0;
+    left: 0;
+}
+
+.single-service:after {
+    background-color: #fd79a8;
+}
+
+.service-icon{
+    border:1px solid #fd79a8;
+
+}
+.single-service:hover .service-icon {
+    background: #fd79a8;
+
+}
+.news-title a{
+    color: #fd79a8;
+}
+
+.client-information img{
+    border: 2px solid #fd79a8;
+}
+
+.client-information h4{
+    display: inline-block;
+    color: #fd79a8;
+}
+
+#portfolio .button.is-checked {
+    color: #fd79a8;
+}
+
+.contact-form .form-control:hover,
+.contact-form .form-control:focus {
+    border-bottom: 1px solid #fd79a8;
+}
+
+.contact-info:hover {
+    border:1px solid #fd79a8;
+}
+.contact-icon {
+    color: #fd79a8;
+}
+.social-icons a{
+    border:1px solid #fd79a8;
+}
+.social-icons a:hover{
+    background: #fd79a8;
+
+}
+
+.footer-bottom-content a {
+    color: #fd79a8;
+}
+.color-options .toggle-btn span{
+    color:#fd79a8;
+}

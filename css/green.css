@@ -1,0 +1,91 @@
+.header-main nav.nav-menu ul li a.is-selected .nav-label {
+    border-left: 1px solid #2ad482;
+    border-right: 1px solid #2ad482;
+}
+
+.banner-wraper .banner-content {
+    color: #2ad482;
+}
+
+#about .ti-user{
+    color: #2ad482;
+}
+.ratting{
+    color: #2ad482;
+}
+
+.personal-info span a:hover{
+    color: #2ad482;
+}
+.resume-item{
+    border-left: 2px solid #2ad482;
+}
+
+.resume-item .date{
+    border:1px solid #2ad482;
+}
+.single-service:before {
+    width: 0%;
+    height: 4px;
+    background-color: #2ad482;
+    position: absolute;
+    content: "";
+    -webkit-transition: linear 0.2s;
+    transition: linear 0.2s;
+    top: 0;
+    left: 0;
+}
+
+.single-service:after {
+    background-color: #2ad482;
+}
+
+.service-icon{
+    border:1px solid #2ad482;
+
+}
+.single-service:hover .service-icon {
+    background: #2ad482;
+
+}
+.news-title a{
+    color: #2ad482;
+}
+
+.client-information img{
+    border: 2px solid #2ad482;
+}
+
+.client-information h4{
+    color: #2ad482;
+}
+
+#portfolio .button.is-checked {
+    color: #2ad482;
+}
+
+.contact-form .form-control:hover,
+.contact-form .form-control:focus {
+    border-bottom: 1px solid #2ad482;
+}
+
+.contact-info:hover {
+    border:1px solid #2ad482;
+}
+.contact-icon {
+    color: #2ad482;
+}
+.social-icons a{
+    border:1px solid #2ad482;
+}
+.social-icons a:hover{
+    background: #2ad482;
+
+}
+
+.footer-bottom-content a {
+    color: #2ad482;
+}
+.color-options .toggle-btn span{
+    color:#2ad482;
+}
